@@ -1,8 +1,12 @@
-
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/header.svg" width="100%" alt="Sleek Hero">
 
 <br/>
 
-![image alt]{https://github.com/himansudash08-a11y/himansudash08-a11y/blob/2e999aa0fd0a8933e415caed4ab274c47a27b22b/about.svg}
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/about.svg" width="100%" alt="Sleek About">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/skills.svg" width="100%" alt="Sleek Stack">
 
 <br/>
 
@@ -10,11 +14,9 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/footer.svg" width="100%" alt="Sleek Wave">
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
