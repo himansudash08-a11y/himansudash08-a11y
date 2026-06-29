@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://share.creavite.co/6a422aa965f8f74c0f9a45cd.gif" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 📊 GitHub Stats:
