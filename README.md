@@ -1,7 +1,20 @@
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/header.svg" width="100%" alt="Sleek Hero">
 
-<div align="center">
-  <img src="https://cdn.imageurlgenerator.com/uploads/18b2dfeb-13e5-4f09-ab48-21da16914ce0.gif" />
-</div>
+<br/>
+
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/about.svg" width="100%" alt="Sleek About">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/skills.svg" width="100%" alt="Sleek Stack">
+
+<br/>
+
+<img src="https://ryme.md/api/render/sleek-github-stats?u=himansudash08-a11y&bg=0d0d10&fg=f7f7fb&accent=dc2626&muted=a5a5b3" width="100%" alt="Sleek GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/footer.svg" width="100%" alt="Sleek Wave">
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
