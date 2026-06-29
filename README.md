@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation](https://cdn.imageurlgenerator.com/uploads/18b2dfeb-13e5-4f09-ab48-21da16914ce0.gif)" />
+  <img src="https://cdn.imageurlgenerator.com/uploads/18b2dfeb-13e5-4f09-ab48-21da16914ce0.gif" />
 </div>
 
 <div align="center">
