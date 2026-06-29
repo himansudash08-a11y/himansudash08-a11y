@@ -2,10 +2,6 @@
   <img src="https://share.creavite.co/6a422aa965f8f74c0f9a45cd.gif" />
 </div>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=himansudash08-a11y&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=himansudash08-a11y&theme=codeSTACKr&hide_border=false)<br/>
