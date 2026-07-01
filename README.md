@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/header.svg" width="100%" alt="Sleek Hero">
 
 <img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/about.svg" width="100%" alt="Sleek About">
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/skills.svg" width="100%" alt="Sleek Stack">
