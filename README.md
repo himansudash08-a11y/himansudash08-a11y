@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/header.svg" width="100%" alt="Sleek Hero">
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/about.svg" width="100%" alt="Sleek About">
 
 <br/>
