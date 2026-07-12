@@ -11,8 +11,3 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/himansudash08-a11y/himansudash08-a11y/main/footer.svg" width="100%" alt="Sleek Wave">
-
-
-
-
-
